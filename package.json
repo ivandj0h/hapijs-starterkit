@@ -42,7 +42,7 @@
     "good-file": "^6.0.1",
     "good-http": "^6.1.1",
     "good-squeeze": "^5.1.0",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.7.7",
     "hapi": "^18.1.0",
     "hapi-auth-cookie": "^9.1.0",
     "hapi-auth-jwt2": "^8.3.0",
